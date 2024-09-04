@@ -1,0 +1,15 @@
+{
+    "name": "professor/aula",
+    "autoload": {
+        "psr-4": {
+            "Professor\\Aula\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Carvalho",
+            "email": "antoniorcn@hotmail.com"
+        }
+    ],
+    "require": {}
+}
